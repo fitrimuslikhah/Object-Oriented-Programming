@@ -1,4 +1,5 @@
 # tulis solusi code disini
+import math
 class Shape:
     def __init__(self):
         pass
